@@ -16,7 +16,12 @@
 - Flask
 - Pandas
 - NumPy
+- Matplotlib
 - Machine Learning
+- Deep Learning
+- NLP
+- HTML/CSS/JacaScript
+- GenAI
 - Git & GitHub
 
 ---
