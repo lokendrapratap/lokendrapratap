@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋, I'm Lokendra Pratap
 
-<!--
-**lokendrapratap/lokendrapratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Python Developer | Data Analyst
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science & Engineering (Data Science)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Greater Noida, India
+
+---
+
+## 💻 Skills
+
+- Python
+- SQL
+- Power BI
+- Flask
+- Pandas
+- NumPy
+- Machine Learning
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 💳 Credit Card Fraud Detection
+- Machine Learning model using Logistic Regression
+- Flask Web App
+- Python, Pandas, Scikit-learn
+
+### 📰 Fake News Detection
+- NLP Project
+- LSTM Model
+- Flask Deployment
+
+### 📊 Netflix Data Analysis
+- Python
+- Data Visualization
+- EDA
+
+### 📈 HR Analytics
+- Employee Attrition Prediction
+
+---
+
+## 🌱 Currently Learning
+
+- FastAPI
+- Docker
+- AWS
+
+---
+
+## 📫 Contact
+
+📧 Email: 215ucd008@gbu.ac.in
+
+💼 LinkedIn:
+https://www.linkedin.com/in/lokendra01/
+
+🐙 GitHub:
+https://github.com/lokendrapratap
